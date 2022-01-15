@@ -62,7 +62,7 @@
     "gh-pages": "^2.1.1",
     "http-proxy-middleware": "^0.20.0",
     "jest": "^24.9.0",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "mixin-deep": "^2.0.1",
     "mongodb": "^3.2.7",
     "mongoose": "^5.6.4",
